@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="68px" height="68px" viewBox="0 0 68 68" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52 (66869) - http://www.bohemiancoding.com/sketch -->
+    <title>Play</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="30" cy="30" r="30"></circle>
+        <filter x="-11.7%" y="-8.3%" width="123.3%" height="123.3%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 1   0 0 0 0 1   0 0 0 0 1  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.65578497">
+        <g id="Signup" transform="translate(-1199.000000, -154.000000)">
+            <g id="Right" transform="translate(720.000000, 0.000000)">
+                <g id="Play" transform="translate(483.000000, 156.000000)">
+                    <g id="Oval" transform="translate(30.000000, 30.000000) rotate(-360.000000) translate(-30.000000, -30.000000) ">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                        <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    </g>
+                    <g id="_ionicons_svg_ios-play" transform="translate(25.000000, 21.000000)" fill="#000000">
+                        <path d="M8.32585961e-16,0.491791723 L8.32585961e-16,18.5056434 C8.32585961e-16,18.8856324 0.380822185,19.1231255 0.685479934,18.933131 L14.7759008,9.92620516 C15.0746997,9.73621068 15.0746997,9.2671618 14.7759008,9.07716732 L0.685479934,0.0702414687 C0.380822185,-0.12569034 0,0.111802761 8.32585961e-16,0.491791723 Z" id="Path"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

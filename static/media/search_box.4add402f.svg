@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="54px" height="56px" viewBox="0 0 54 56" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52 (66869) - http://www.bohemiancoding.com/sketch -->
+    <title>Icon</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="WebLandingMain" transform="translate(-122.000000, -833.000000)">
+            <g id="FindLocalDealers" transform="translate(91.000000, 799.000000)">
+                <g id="Icon" transform="translate(31.000000, 34.000000)">
+                    <rect id="Rectangle" fill="#DEF4FB" x="0" y="0" width="54" height="56" rx="4"></rect>
+                    <g id="search" transform="translate(18.000000, 19.000000)" stroke="#00AAE1" stroke-linecap="round" stroke-linejoin="round" stroke-width="3">
+                        <ellipse id="Oval" cx="8.38455477" cy="8.44444444" rx="8.38455477" ry="8.44444444"></ellipse>
+                        <path d="M18.8652482,19 L14.3061466,14.4083333" id="Path"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
